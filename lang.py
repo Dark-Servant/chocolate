@@ -10,3 +10,7 @@ ERROR_SPECIAL_PART_IS_0 = "Указанный процент основной ч
 ERROR_NUMERIC_VALUE = "Значение должно быть числового типа"
 ERROR_DICT_VALUE = "Значение должно быть словарем"
 ERROR_DICT_PARAMETER_VALUE = "Значение параметра {code} в словаре не числового типа - {value}"
+
+# impurity.py
+ERROR_VALUE_IS_NOT_FULL_MASS = "Данные полной массы должны быть класса {classname}"
+ERROR_REPORT_IMPURITY_TYPE = "Значение, передаваемое в конструкторе, должно быть класса {classname}"
